@@ -6,7 +6,8 @@ Quickly find the IP address of the Raspberry PI in a network with DHCP
 Installing and Compilling
 ----------
 
-This code is intended to be used in a Linux terminal, please follow the steps bellow:
+This code is intended to be used in a Linux terminal of a PC that is connect to the same network that PI is.
+Please follow the steps bellow:
 
 * 1 Clone the git repo
 
